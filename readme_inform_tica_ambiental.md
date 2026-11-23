@@ -48,7 +48,7 @@ Los **residuos informáticos** —incluidos dentro de los **Residuos de Aparatos
 
 La **obsolescencia programada** consiste en diseñar o limitar un producto —mediante hardware, software o políticas de soporte— para que quede obsoleto o deje de funcionar de forma eficiente tras un periodo determinado, incentivando su reemplazo.
 
-![Obsolescencia programada y ciclo de vida de dispositivos](./img/obsolescencia-programada.png)
+![Obsolescencia programada y ciclo de vida de dispositivos](usame.jpg)
 
 * **Obsolescencia de hardware:** Baterías selladas difíciles de sustituir, componentes soldados sin posibilidad de ampliación o piezas frágiles.
 * **Obsolescencia de software:** Sistemas operativos o aplicaciones que exigen requisitos superiores sin justificación técnica clara o cortan actualizaciones de seguridad prematuramente.
