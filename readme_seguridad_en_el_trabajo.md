@@ -80,8 +80,7 @@ La informática no solo genera entornos de trabajo: también ofrece **herramient
 
 ## 4. Autores
 
-* **Autor/a 1:** [Nombre Apellidos] — [Rol en el proyecto / apartado redactado] — `@usuario-github-1`
-* **Autor/a 2:** [Nombre Apellidos] — [Rol en el proyecto / apartado redactado] — `@usuario-github-2`
-* **Autor/a 3:** [Nombre Apellidos] — [Rol en el proyecto / apartado redactado] — `@usuario-github-3`
+* **Autor/a 1:** Fernando jesus salas curiel.
+* **Autor/a 2:** Manuel orta sales.
 
 [^1]: La prevención psicosocial requiere combinar organización del trabajo, límites claros de disponibilidad y comunicación efectiva en el equipo.
