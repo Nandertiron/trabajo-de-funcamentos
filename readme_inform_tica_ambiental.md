@@ -20,7 +20,7 @@ La **contaminación ambiental** es la presencia en el entorno de sustancias, ene
 
 En el ámbito tecnológico, la contaminación no es solo visible en chimeneas o vertidos: también ocurre de forma indirecta a través del **consumo eléctrico** de centros de datos, la **extracción minera** de tierras raras y la **fabricación de hardware**.
 
-![Contaminación ambiental y ciclo tecnológico](blog-aicad--seguridad-informatica.jpg)
+![Contaminación ambiental y ciclo tecnológico](IMAGENEEEEEE)
 
 * **Emisiones asociadas al consumo energético:** La generación de electricidad para servidores, redes y dispositivos sigue dependiendo en buena medida de fuentes no renovables en distintas regiones.
 * **Impacto hídrico y del suelo:** La refrigeración de grandes infraestructuras y el vertido inadecuado de componentes afectan acuíferos y suelos.
