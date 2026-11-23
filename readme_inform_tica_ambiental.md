@@ -88,8 +88,7 @@ La **informática ecológica** o *Green IT* agrupa las estrategias orientadas a 
 
 ## 6. Autores
 
-* **Autor/a 1:** [Nombre Apellidos] — [Rol en el proyecto / apartado redactado] — `@usuario-github-1`
-* **Autor/a 2:** [Nombre Apellidos] — [Rol en el proyecto / apartado redactado] — `@usuario-github-2`
-* **Autor/a 3:** [Nombre Apellidos] — [Rol en el proyecto / apartado redactado] — `@usuario-github-3`
+* **Autor/a 1:** Fernando jesus salas curiel 
+* **Autor/a 2:** Manue orta sales
 
 [^1]: Los RAEE incluyen tanto equipos domésticos como profesionales cuando dejan de utilizarse y pasan a considerarse residuo.
