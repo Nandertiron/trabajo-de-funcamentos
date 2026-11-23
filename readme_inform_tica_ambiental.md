@@ -20,7 +20,7 @@ La **contaminación ambiental** es la presencia en el entorno de sustancias, ene
 
 En el ámbito tecnológico, la contaminación no es solo visible en chimeneas o vertidos: también ocurre de forma indirecta a través del **consumo eléctrico** de centros de datos, la **extracción minera** de tierras raras y la **fabricación de hardware**.
 
-![Contaminación ambiental y ciclo tecnológico](IMAGENEEEEEE)
+![Contaminación ambiental y ciclo tecnológico](imagenbasura.jpeg)
 
 * **Emisiones asociadas al consumo energético:** La generación de electricidad para servidores, redes y dispositivos sigue dependiendo en buena medida de fuentes no renovables en distintas regiones.
 * **Impacto hídrico y del suelo:** La refrigeración de grandes infraestructuras y el vertido inadecuado de componentes afectan acuíferos y suelos.
@@ -31,7 +31,7 @@ En el ámbito tecnológico, la contaminación no es solo visible en chimeneas o 
 
 Los **residuos informáticos** —incluidos dentro de los **Residuos de Aparatos Eléctricos y Electrónicos (RAEE)** o *e-waste*— son equipos tecnológicos que han llegado al final de su vida útil: ordenadores, móviles, pantallas, impresoras, cables y baterías[^1].
 
-![Acumulación y reciclaje de residuos informáticos](./img/residuos-informaticos.png)
+![Acumulación y reciclaje de residuos informáticos](basura_746x419.jpg)
 
 | Tipo de residuo | Componentes críticos | Riesgo principal | Gestión recomendada |
 | :--- | :--- | :--- | :--- |
