@@ -40,7 +40,7 @@ Aunque el trabajo informático suele percibirse como "seguro", conlleva riesgos 
 
 La informática no solo genera entornos de trabajo: también ofrece **herramientas, automatización y buenas prácticas técnicas** para prevenir accidentes y proteger la salud laboral.
 
-![Prevención de riesgos mediante ergonomía, software y automatización](./img/prevencion-informatica.png)
+![Prevención de riesgos mediante ergonomía, software y automatización](imagen33.jpeg)
 
 ### Medidas organizativas y de puesto
 
@@ -56,7 +56,7 @@ La informática no solo genera entornos de trabajo: también ofrece **herramient
 * **Monitorización de infraestructuras:** Sensores y paneles de control (temperatura, humedad, carga eléctrica, fallos de ventilación) para evitar intervenciones de emergencia en condiciones inseguras.
 * **Documentación y protocolos:** Procedimientos claros de apagado seguro, etiquetado de equipos y respaldo de datos antes de intervenir en sistemas críticos.
 
-![Protocolos preventivos y monitorización técnica](./img/protocolos-prevencion.png)
+![Protocolos preventivos y monitorización técnica](seguridad_informatica.jpg)
 
 ### Lista de comprobación preventiva en el puesto
 
