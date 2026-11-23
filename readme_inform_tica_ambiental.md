@@ -66,8 +66,7 @@ La **obsolescencia programada** consiste en diseñar o limitar un producto —me
 
 La **informática ecológica** o *Green IT* agrupa las estrategias orientadas a reducir la huella ambiental de la tecnología a lo largo de todo su ciclo de vida: diseño, fabricación, uso y disposición final.
 
-![Prácticas de informática ecológica y centros de datos sostenibles](<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/83bb40fc-07d4-4baf-8696-dafe30d1aef2" />
-)
+![Prácticas de informática ecológica y centros de datos sostenibles](valiphotos-forest-1072828_1920.jpg)
 
 * **Eficiencia energética:** Uso de hardware de bajo consumo, virtualización de servidores para reducir máquinas físicas y ajuste de planes de energía.
 * **Economía circular:** Reutilización, reacondicionamiento (*refurbished*), reparación y reciclaje de materiales.
