@@ -16,7 +16,7 @@
 
 Aunque el trabajo informático suele percibirse como "seguro", conlleva riesgos físicos, ergonómicos, psicosociales y técnicos que conviene identificar a tiempo.
 
-![Ergonomía y puesto informático saludable](./img/riesgos-ergonomicos.png)
+![Ergonomía y puesto informático saludable](blog-aicad--seguridad-informatica.jpg)
 
 ### Riesgos ergonómicos y visuales
 
@@ -28,7 +28,7 @@ Aunque el trabajo informático suele percibirse como "seguro", conlleva riesgos 
 * **Riesgo eléctrico:** Manipulación de fuentes de alimentación, regletas sobrecargadas, cables dañados o trabajos en cuadros/SAIs sin desconexión previa.
 * **Condiciones ambientales:** Ruido constante de sistemas de ventilación, corrientes de aire o temperaturas extremas en salas técnicas y CPD.
 
-![Riesgos eléctricos y de infraestructura en entornos informáticos](./img/riesgos-tecnicos-cpd.png)
+![Riesgos eléctricos y de infraestructura en entornos informáticos](images.jpeg)
 
 ### Riesgos psicosociales
 
